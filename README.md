@@ -2,6 +2,9 @@
 
   ##### ◦ Atualmente estudando HTML5 e CSS3
   ##### ◦ Cursando Engenharia de Software - PUCPR
+  <br>
+  <br>
+  <br>
 
 <div align="center">
   <a href="https://github.com/GustavoGuimaraes32">
