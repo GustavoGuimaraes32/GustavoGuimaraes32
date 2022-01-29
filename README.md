@@ -1,5 +1,8 @@
 ### Olá, meu nome é Gustavo Guimarães Martins
 
+  ##### ◦ Atualmente estudando HTML5 e CSS3
+  ##### ◦ Cursando Engenharia de Software - PUCPR
+
 <div align="center">
   <a href="https://github.com/GustavoGuimaraes32">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GustavoGuimaraes32&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
