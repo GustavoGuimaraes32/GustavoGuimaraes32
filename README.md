@@ -17,5 +17,8 @@
  
 <div> 
   <a href = "mailto:gustavo.guimaraesm@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-guimar%C3%A3es-martins-988a6b20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/gustavo-guimar%C3%A3es-martins-988a6b20b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/GustavoGuimaraes32/GustavoGuimaraes32/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
