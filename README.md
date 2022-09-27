@@ -2,6 +2,7 @@
 
   ##### ◦ Atualmente estudando HTML5 e CSS3
   ##### ◦ Cursando Engenharia de Software - PUCPR
+  ##### 🔗Portfólio: https://gustavoguimaraes32.github.io/Portfolio/
   <br>
   <br>
 
